@@ -1,2 +1,2 @@
-! [Akita]("https://i.imgur.com/4uKH0Ug.png")
+! []("https://i.imgur.com/4uKH0Ug.png")
 A social dog network. 

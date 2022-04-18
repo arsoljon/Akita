@@ -1,3 +1,2 @@
-#Akita
-
+# Akita
 A social dog network. 
